@@ -1,0 +1,1114 @@
+[
+    {
+        "title": "Airdrop",
+        "description": "Distributing tokens to a designated group of recipients based on certain qualifying criteria.",
+        "link": "https://www.mechanism.institute/library/airdrop",
+        "tags": [
+            "Value Distribution"
+        ]
+    },
+    {
+        "title": "All-pay Auction",
+        "description": "Competitive bidding process where all participants pay their bids, regardless of whether they win or lose. The highest bidder wins the item, but everyone else loses their bid money.",
+        "link": "https://www.mechanism.institute/library/all-pay-auction",
+        "tags": [
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Approval Voting",
+        "description": "A voting mechanism that allows voters to express approval for multiple options simultaneously. The winner is the option with the highest number of approvals.",
+        "link": "https://www.mechanism.institute/library/approval-voting",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "Assurance Contract",
+        "description": "Participants pledge money to fund a project. If the funding goal is met by a specified deadline, the pledges are collected and the good is provided. If the project fails to reach its funding goal, participants receive a refund.",
+        "link": "https://www.mechanism.institute/library/assurance-contract",
+        "tags": [
+            "Fundraising"
+        ]
+    },
+    {
+        "title": "Automated Market-Maker (AMM)",
+        "description": "Decentralized exchange mechanism that employs a mathematical algorithm, known as a bonding curve, to establish the price of an asset in response to market supply and demand dynamics.",
+        "link": "https://www.mechanism.institute/library/automated-market-maker-amm",
+        "tags": [
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Batch Auction",
+        "description": "Groups individual orders and executes them simultaneously at a uniform clearing price. ",
+        "link": "https://www.mechanism.institute/library/batch-auction",
+        "tags": [
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Bounty",
+        "description": "A pre-specified task and reward for anyone who completes a specific task or achieving within a particular ecosystem.",
+        "link": "https://www.mechanism.institute/library/bounty",
+        "tags": [
+            "Value Distribution"
+        ]
+    },
+    {
+        "title": "Burn-and-Mint Equilibrium (BME)",
+        "description": "Users burn tokens to access network services, reducing the token supply, while service providers receive new tokens minted at a controlled but independent rate.",
+        "link": "https://www.mechanism.institute/library/burn-and-mint-equilibrium-bme",
+        "tags": [
+            "Value Capture"
+        ]
+    },
+    {
+        "title": "Buyback & Burn",
+        "description": "A financial mechanism aimed at increasing the value of a token by repurchasing it from the open market and then permanently removing it from circulation through burning.",
+        "link": "https://www.mechanism.institute/library/buyback-and-burn",
+        "tags": [
+            "Value Capture"
+        ]
+    },
+    {
+        "title": "Buyback & Make",
+        "description": "A financial mechanism aimed at increasing the utility and value of a token within a decentralized network by repurchasing tokens and allocating them to productive use.",
+        "link": "https://www.mechanism.institute/library/buyback-and-make",
+        "tags": [
+            "Value Capture"
+        ]
+    },
+    {
+        "title": "Capped Returns",
+        "description": "A mechanism where the returns on an investment are limited to a certain percentage or amount.",
+        "link": "https://www.mechanism.institute/library/capped-returns",
+        "tags": [
+            "Fundraising"
+        ]
+    },
+    {
+        "title": "Coin Machine",
+        "description": "Sells limited amounts of tokens in fixed-price batches, adjusting prices up or down in between sale periods based on recent demand.",
+        "link": "https://www.mechanism.institute/library/coin-machine",
+        "tags": [
+            "Fundraising"
+        ]
+    },
+    {
+        "title": "Collateralized Debt Position (CDP)",
+        "description": "Locking up collateral in one token to take out a loan worth less in a different token. The loan must be paid back to unlock the collateral. The loan can be liquidated if the value of the collateral drops below the value of the loan (or comes close enough).",
+        "link": "https://www.mechanism.institute/library/collateralized-debt-position-cdp",
+        "tags": [
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Competitive Vote-Based Issuance",
+        "description": "Contributors submit proposals or content, and token holders within the community cast votes to determine which contributors receive the new token issuance.",
+        "link": "https://www.mechanism.institute/library/competitive-vote-based-issuance",
+        "tags": [
+            "Exchange",
+            "Governance"
+        ]
+    },
+    {
+        "title": "Conditional Token",
+        "description": "Can be redeemed at a particular value based on the outcome of specific conditions or events.",
+        "link": "https://www.mechanism.institute/library/conditional-token",
+        "tags": [
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Continuous Auction",
+        "description": "Repeating auction to sell newly created NFTs from collection on a recurring basis. The highest bidder receives the NFT, and all proceeds go to a treasury that is governed by the NFT holders. Auctions can occur at any chosen interval, with a common default being daily.",
+        "link": "https://www.mechanism.institute/library/continuous-auction",
+        "tags": [
+            "Fundraising",
+            "Value Distribution"
+        ]
+    },
+    {
+        "title": "Contract Secured Revenue (CSR)",
+        "description": "Allows contract creators to receive a portion of the gas fees consumed by their contracts within a given block.",
+        "link": "https://www.mechanism.institute/library/contract-secured-revenue-csr",
+        "tags": [
+            "Value Distribution",
+            "Value Capture"
+        ]
+    },
+    {
+        "title": "Conviction Voting",
+        "description": "Proposals are passed based on aggregated continuous preferences of community members.",
+        "link": "https://www.mechanism.institute/library/conviction-voting",
+        "tags": [
+            "Governance",
+            "Value Distribution"
+        ]
+    },
+    {
+        "title": "Correlation Discount",
+        "description": "Reducing the weight of correlated opinions to mitigate the overrepresentation of popular views and balance the influence across different voter segments. By recognizing and adjusting for the correlation among voters' preferences, this mechanism aims to enhance the fairness and representativeness of collective decisions.",
+        "link": "https://www.mechanism.institute/library/correlation-discount",
+        "tags": [
+            "Value Distribution",
+            "Governance"
+        ]
+    },
+    {
+        "title": "Crowdfund",
+        "description": "Collecting funds without necessarily issuing a token in exchange.",
+        "link": "https://www.mechanism.institute/library/crowdfund",
+        "tags": [
+            "Fundraising"
+        ]
+    },
+    {
+        "title": "Crowdsale",
+        "description": "Raising funds for a project by issuing new tokens to purchasers. These tokens can represent a mix of rights including governance, economic, or access to a product or service.",
+        "link": "https://www.mechanism.institute/library/crowdsale",
+        "tags": [
+            "Fundraising"
+        ]
+    },
+    {
+        "title": "Curation Markets",
+        "description": "Reduce information asymmetry through the use of tokenized signals. Tokens are minted as needed through a continuous token model.",
+        "link": "https://www.mechanism.institute/library/curation-markets",
+        "tags": [
+            "Exchange"
+        ]
+    },
+    {
+        "title": "DAICO",
+        "description": "Allows token holders to control the gradual release of funds to a project after fundraising.",
+        "link": "https://www.mechanism.institute/library/daico",
+        "tags": [
+            "Fundraising"
+        ]
+    },
+    {
+        "title": "DAO Options",
+        "description": "Tokenized options that give the holder the right to buy or sell tokens in the DAO. Can be used for an airdrop, as liquidity incentives, or to motivate contributors.",
+        "link": "https://www.mechanism.institute/library/dao-options",
+        "tags": [
+            "Fundraising",
+            "Value Distribution"
+        ]
+    },
+    {
+        "title": "Decentralized Identifier (DID)",
+        "description": "Unique identifiers that allow entities to be identified in a verifiable and persistent way without relying on a centralized registry. They can be used to identify entities such as persons, organizations, or Internet of Things (IoT) devices.",
+        "link": "https://www.mechanism.institute/library/decentralized-identifier-did",
+        "tags": [
+            "Data"
+        ]
+    },
+    {
+        "title": "Delegated Allocation",
+        "description": "Giving individual allocators budgets and discretion to support projects and people they believe in.",
+        "link": "https://www.mechanism.institute/library/delegated-allocation",
+        "tags": [
+            "Value Distribution",
+            "Governance"
+        ]
+    },
+    {
+        "title": "Demurrage",
+        "description": "A negative interest rate applied to currency or tokens held in a particular ecosystem, incentivizing spending and discouraging hoarding.",
+        "link": "https://www.mechanism.institute/library/demurrage",
+        "tags": [
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Dispute Resolution Game",
+        "description": "Jurors vote on the outcome of disputes, and the majority decision is considered the final verdict. Honest jurors are rewarded, and dishonest jurors are penalized, reinforcing the integrity of the system.",
+        "link": "https://www.mechanism.institute/library/dispute-resolution-game",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "Dividend",
+        "description": "A portion of profits or revenue distributed to token holders.",
+        "link": "https://www.mechanism.institute/library/dividend",
+        "tags": [
+            "Value Distribution",
+            "Value Capture"
+        ]
+    },
+    {
+        "title": "Dominant Assurance Contract (DAC)",
+        "description": "Participants pledge money to fund a project. If the funding goal is met by a specified deadline, the pledges are collected and the good is provided. If the project fails to reach its funding goal, participants receive a monetary bonus in addition to a refund.",
+        "link": "https://www.mechanism.institute/library/dominant-assurance-contract-dac",
+        "tags": [
+            "Fundraising"
+        ]
+    },
+    {
+        "title": "Dutch Auction",
+        "description": "An auction where the price of an asset starts high and gradually decreases over time.",
+        "link": "https://www.mechanism.institute/library/dutch-auction",
+        "tags": [
+            "Fundraising",
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Dynamic Parameter Tuning",
+        "description": "Adjusts system parameters in real-time based on predefined criteria to optimize system performance or meet specific objectives.",
+        "link": "https://www.mechanism.institute/library/dynamic-parameter-tuning",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "Escrow",
+        "description": "A mechanism where funds or tokens are held in a neutral account until certain conditions are met.",
+        "link": "https://www.mechanism.institute/library/escrow",
+        "tags": [
+            "Value Distribution"
+        ]
+    },
+    {
+        "title": "Fair Ranking",
+        "description": "Adaption of token curated registries (TCRs) where information which ranks highly is provably valuable to network stakeholders.",
+        "link": "https://www.mechanism.institute/library/fair-ranking",
+        "tags": [
+            "Exchange"
+        ]
+    },
+    {
+        "title": "First-Price Auction",
+        "description": "An auction, typically with a sealed-bid, in which the auction winner pays their bid (and nobody else pays).",
+        "link": "https://www.mechanism.institute/library/first-price-auction",
+        "tags": [
+            "Fundraising",
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Flash Loan",
+        "description": "A type of loan that allows borrowers to borrow and repay funds within a single transaction, without the need for collateral.",
+        "link": "https://www.mechanism.institute/library/flash-loan",
+        "tags": [
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Fractionalized NFT",
+        "description": "An NFT divided into multiple pieces, allowing for fractional ownership of the original token.",
+        "link": "https://www.mechanism.institute/library/fractionalized-nft",
+        "tags": [
+            "Exchange",
+            "Fundraising"
+        ]
+    },
+    {
+        "title": "Futarchy",
+        "description": "Combines voting with prediction markets to decide which policies will best achieve success metrics.",
+        "link": "https://www.mechanism.institute/library/futarchy",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "Graduated Sanctions",
+        "description": "Penalties that increase in severity based on the frequency or degree of rule-breaking.",
+        "link": "https://www.mechanism.institute/library/graduated-sanctions",
+        "tags": [
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Guild Kick",
+        "description": "Process for removing a DAO member through a proposal that allows the removed member to redeem their funds based on the number of DAO units that the member was holding. Similar to Rage Quit but initialized through a proposal voted on by other members, rather than through unilateral action of the member themselves.",
+        "link": "https://www.mechanism.institute/library/guild-kick",
+        "tags": [
+            "Value Distribution"
+        ]
+    },
+    {
+        "title": "Harberger Tax",
+        "description": "Harberger taxes are a form of taxation on private goods, such as houses, domain names, luxury cars, and NFTs, that incentivize owners to sell or rent unused assets.",
+        "link": "https://www.mechanism.institute/library/harberger-tax",
+        "tags": [
+            "Value Distribution"
+        ]
+    },
+    {
+        "title": "Holographic Consensus",
+        "description": "A governance mechanism that allows for local decisions that represent the interests of a global group.",
+        "link": "https://www.mechanism.institute/library/holographic-consensus",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "Impact Certificates",
+        "description": "A digital certificate that represents a measurable positive social or environmental impact. It can be traded, sold, or donated, allowing investors and philanthropists to support projects that align with their values and earn returns from the positive outcomes generated by these projects.",
+        "link": "https://www.mechanism.institute/library/impact-certificates",
+        "tags": [
+            "Data"
+        ]
+    },
+    {
+        "title": "Incentivized Peer Review",
+        "description": "A mechanism that rewards individuals for reviewing and validating particular content or products within a particular ecosystem.",
+        "link": "https://www.mechanism.institute/library/incentivized-peer-review",
+        "tags": [
+            "Exchange",
+            "Data"
+        ]
+    },
+    {
+        "title": "Incentivized Voting",
+        "description": "Financial incentives for individual voters and/or delegates to participate in governance.",
+        "link": "https://www.mechanism.institute/library/incentivized-voting",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "Instant Governance",
+        "description": "Token-holders stake on values for each governance parameter and the resulting value is adjusted in real-time based on the stake-weighted median.",
+        "link": "https://www.mechanism.institute/library/instant-governance",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "Liquid Democracy",
+        "description": "A hybrid system that allows participants to directly vote on issues or delegate their votes to trusted delegate.",
+        "link": "https://www.mechanism.institute/library/liquid-democracy",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "Liquidity Bonds",
+        "description": "Allows users to exchange liquidity pool (LP) tokens for discounted protocol tokens, usually with a lock-up.",
+        "link": "https://www.mechanism.institute/library/liquidity-bonds",
+        "tags": [
+            "Fundraising",
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Liquidity Bootstrapping Pool (LBP)",
+        "description": "A mechanism that allows for the gradual release of a particular token into a liquidity pool, allowing for price discovery and the creation of a market.",
+        "link": "https://www.mechanism.institute/library/liquidity-bootstrapping-pool-lbp",
+        "tags": [
+            "Fundraising"
+        ]
+    },
+    {
+        "title": "Liquidity Mining",
+        "description": "Rewarding users who provide liquidity to particular token pools.",
+        "link": "https://www.mechanism.institute/library/liquidity-mining",
+        "tags": [
+            "Value Distribution",
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Lottery",
+        "description": "Awarding prizes to randomly selected participants.",
+        "link": "https://www.mechanism.institute/library/lottery",
+        "tags": [
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Minimum Anti-Collusion Infrastructure",
+        "description": "Minimum Anti-Collusion Infrastructure (MACI) is a solution that uses zero-knowledge proofs to make blockchain voting, such as quadratic funding mechanisms, resistant to bribery and collusion.",
+        "link": "https://www.mechanism.institute/library/minimum-anti-collusion-infrastructure",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "Multisend",
+        "description": "Sending tokens to multiple recipients in a single transaction.",
+        "link": "https://www.mechanism.institute/library/multisend",
+        "tags": [
+            "Value Distribution"
+        ]
+    },
+    {
+        "title": "Multistakeholder Governance",
+        "description": "Representing the distinct interests of different stakeholders in the governance mechanics of a given system. This approach aims to incorporate a diverse range of perspectives, ensuring a more inclusive and resilient decision-making process.",
+        "link": "https://www.mechanism.institute/library/multistakeholder-governance",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "Mutual Credit",
+        "description": "Credit that members can issue to each other based on mutual trust, rather than using traditional forms of collateral.",
+        "link": "https://www.mechanism.institute/library/mutual-credit",
+        "tags": [
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Mutual Insurance",
+        "description": "A cooperative insurance model where members pool resources to provide coverage against losses.",
+        "link": "https://www.mechanism.institute/library/mutual-insurance",
+        "tags": [
+            "Exchange"
+        ]
+    },
+    {
+        "title": "NFT",
+        "description": "A unique and indivisible token that represents digital ownership.",
+        "link": "https://www.mechanism.institute/library/nft",
+        "tags": [
+            "Exchange"
+        ]
+    },
+    {
+        "title": "NFT Drop",
+        "description": "A method of distributing non-fungible tokens (NFTs) through a random or selective process.",
+        "link": "https://www.mechanism.institute/library/nft-drop",
+        "tags": [
+            "Value Distribution"
+        ]
+    },
+    {
+        "title": "Non-Transferable NFT",
+        "description": "A non-transferable, non-fungible token (NFT), typically used to represent a digital badge or achievement within a particular context.",
+        "link": "https://www.mechanism.institute/library/non-transferable-nft",
+        "tags": [
+            "Data"
+        ]
+    },
+    {
+        "title": "Non-Transferable Token",
+        "description": "A non-transferable, fungible token, typically used to represent a user's reputation within a particular context.",
+        "link": "https://www.mechanism.institute/library/non-transferable-token",
+        "tags": [
+            "Data"
+        ]
+    },
+    {
+        "title": "Optimistic Governance",
+        "description": "Proposals default to passing unless there is enough resistance. Participants vote against the options they dislike, rather than for the options they prefer.",
+        "link": "https://www.mechanism.institute/library/optimistic-governance",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "Oracle",
+        "description": "Information source that provides external data to smart contracts, bridging the gap between on-chain and off-chain systems.",
+        "link": "https://www.mechanism.institute/library/oracle",
+        "tags": [
+            "Data"
+        ]
+    },
+    {
+        "title": "Osmotic Funding",
+        "description": "Voters signal budgeting preferences by staking tokens on projects. The rate at which each project is funded is determined by the staked amount and the available funds. The rate variations are smoothed over time to avoid high rate variations and offer stability to the projects.",
+        "link": "https://www.mechanism.institute/library/osmotic-funding",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "Over-the-Counter (OTC) Transaction",
+        "description": "Direct exchange of assets between two parties without using a public exchange.",
+        "link": "https://www.mechanism.institute/library/over-the-counter-otc-transaction",
+        "tags": [
+            "Fundraising",
+            "Value Distribution"
+        ]
+    },
+    {
+        "title": "Pairwise",
+        "description": "A budgeting process where options are presented in pairs, and participants choose their preferred option from each pair. The formula distributes funding by computing the preferences over all pairwise comparisons.",
+        "link": "https://www.mechanism.institute/library/pairwise",
+        "tags": [
+            "Value Distribution",
+            "Governance"
+        ]
+    },
+    {
+        "title": "Pass/Fail Voting",
+        "description": "A simple binary voting system where participants can only choose between \"yes\" or \"no\".",
+        "link": "https://www.mechanism.institute/library/passfail-voting",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "Patronage-Based Token Earnings",
+        "description": "A mechanism where token holders earn rewards in proportion to their usage of a platform or provision of service to the platform.",
+        "link": "https://www.mechanism.institute/library/patronage-based-token-earnings",
+        "tags": [
+            "Value Distribution"
+        ]
+    },
+    {
+        "title": "Payment Splitter",
+        "description": "Divides incoming payments among multiple recipients according to hardcoded or dynamic ownership percentages.",
+        "link": "https://www.mechanism.institute/library/payment-splitter",
+        "tags": [
+            "Value Distribution"
+        ]
+    },
+    {
+        "title": "Personhood",
+        "description": "Related to SSI/DID but with emphasis on sybil resistance. This mechanism aims to prevent any one human from having multiple identities.",
+        "link": "https://www.mechanism.institute/library/personhood",
+        "tags": [
+            "Data"
+        ]
+    },
+    {
+        "title": "Points",
+        "description": "Measures individual contributions or participation and allocates rewards proportionally to the systems\u2019 overall contributions over a defined period, after which they can be converted to tangible rewards.",
+        "link": "https://www.mechanism.institute/library/points",
+        "tags": [
+            "Value Distribution"
+        ]
+    },
+    {
+        "title": "Prediction Market",
+        "description": "Allow users to trade on future event outcomes, using market prices to reflect each outcome's probability. Participants stake tokens on their predictions, and markets are resolved when event outcomes are verified.",
+        "link": "https://www.mechanism.institute/library/prediction-market",
+        "tags": [
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Private Voting",
+        "description": "A form of voting that allows participants to keep their votes private, providing a layer of anonymity.",
+        "link": "https://www.mechanism.institute/library/private-voting",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "Proposal Inverter",
+        "description": "Proposal can receive funding from multiple sources rather than just one.",
+        "link": "https://www.mechanism.institute/library/proposal-inverter",
+        "tags": [
+            "Value Distribution"
+        ]
+    },
+    {
+        "title": "Protection Market",
+        "description": "Insures against losses from holding specific assets or using particular protocols by charging a fee proportional to the risk and amount being protected.",
+        "link": "https://www.mechanism.institute/library/protection-market",
+        "tags": [
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Protocol Owned Liquidity",
+        "description": "Liquidity Pool tokens owned by the protocol itself. This allows the protocol to provide a floor of liquidity for its protocol while also allowing it to capture some of the transaction fees from the liquidity pool.",
+        "link": "https://www.mechanism.institute/library/protocol-owned-liquidity",
+        "tags": [
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Quadratic Attention Payments",
+        "description": "An advertising mechanism that uses quadratic voting to enhance ad relevance, user engagement, and revenue distribution among stakeholders.",
+        "link": "https://www.mechanism.institute/library/quadratic-attention-payments",
+        "tags": [
+            "Value Distribution",
+            "Data"
+        ]
+    },
+    {
+        "title": "Quadratic Funding",
+        "description": "Quadratic funding is a donation-matching scheme that prioritizes projects based on the number of people who contributed rather than just the amount contributed. The share of the matching pool that each project receives is based on the square root of each contribution. This reduces the power of large donors to influence the matching of funds.",
+        "link": "https://www.mechanism.institute/library/quadratic-funding",
+        "tags": [
+            "Value Distribution",
+            "Fundraising"
+        ]
+    },
+    {
+        "title": "Quadratic Voting",
+        "description": "A voting mechanism where participants can allocate a limited number of voting \"points\" to different options, with the number of points allocated being proportional to the square root of the number of points.",
+        "link": "https://www.mechanism.institute/library/quadratic-voting",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "Quest",
+        "description": "A gamified process where participants are incentivized to complete tasks or solve problems.",
+        "link": "https://www.mechanism.institute/library/quest",
+        "tags": [
+            "Value Distribution"
+        ]
+    },
+    {
+        "title": "Quorum",
+        "description": "Minimum level of participation required for a decision to be valid",
+        "link": "https://www.mechanism.institute/library/quorum",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "Rage Quit",
+        "description": "Participants can withdraw their stake or membership if they disagree with a decision made by the group.",
+        "link": "https://www.mechanism.institute/library/rage-quit",
+        "tags": [
+            "Value Distribution"
+        ]
+    },
+    {
+        "title": "Ranked Choice Voting",
+        "description": "A voting system where participants rank the available options in order of preference.",
+        "link": "https://www.mechanism.institute/library/ranked-choice-voting",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "Rebase Token",
+        "description": "A monetary policy where the supply of tokens is adjusted automatically based on market conditions.",
+        "link": "https://www.mechanism.institute/library/rebase-token",
+        "tags": [
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Redeemable NFT",
+        "description": "NFT that is redeemable for a discrete good.",
+        "link": "https://www.mechanism.institute/library/redeemable-nft",
+        "tags": [
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Referral Incentives",
+        "description": "A mechanism where participants earn rewards for bringing in new users.",
+        "link": "https://www.mechanism.institute/library/referral-incentives",
+        "tags": [
+            "Value Distribution"
+        ]
+    },
+    {
+        "title": "Rentable NFT",
+        "description": "An NFT that can be rented out to others for a fee.",
+        "link": "https://www.mechanism.institute/library/rentable-nft",
+        "tags": [
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Research Object",
+        "description": "A digital object that encapsulates data, code, and other assets related to a specific research project.",
+        "link": "https://www.mechanism.institute/library/research-object",
+        "tags": [
+            "Data"
+        ]
+    },
+    {
+        "title": "Reversible ICO",
+        "description": "Token sale in which committed funds are used to buy tokens gradually, giving individual purchasers the possibility of partially reversing their purchase within a fixed time window.",
+        "link": "https://www.mechanism.institute/library/reversible-ico",
+        "tags": [
+            "Fundraising"
+        ]
+    },
+    {
+        "title": "Royalty Fee",
+        "description": "Creator earns a percentage of revenue for each subsequent transaction involving their work.",
+        "link": "https://www.mechanism.institute/library/royalty-fee",
+        "tags": [
+            "Value Capture"
+        ]
+    },
+    {
+        "title": "Shareable NFT",
+        "description": "A non-fungible token (NFT) that can be shared or split among multiple users.",
+        "link": "https://www.mechanism.institute/library/shareable-nft",
+        "tags": [
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Single Choice Voting",
+        "description": "A simple voting system in which participants choose one option from a list of choices.",
+        "link": "https://www.mechanism.institute/library/single-choice-voting",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "Slashing",
+        "description": "A punitive measure where a network participant loses a portion or all of their staked assets for not adhering to the protocol rules.",
+        "link": "https://www.mechanism.institute/library/slashing",
+        "tags": [
+            "Value Distribution"
+        ]
+    },
+    {
+        "title": "Smart Property",
+        "description": "Using smart contracts to manage the ownership and control of physical assets.",
+        "link": "https://www.mechanism.institute/library/smart-property",
+        "tags": [
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Social Graph",
+        "description": "A graphical representation of individuals and their relationships",
+        "link": "https://www.mechanism.institute/library/social-graph",
+        "tags": [
+            "Data"
+        ]
+    },
+    {
+        "title": "Sortition",
+        "description": "A process where a randomly selected group of individuals make a decision on a dispute or issue. Selection probability could be equal for every participant or weighted by a number of different factors, such as tokens staked or square root of tokens staked.",
+        "link": "https://www.mechanism.institute/library/sortition",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "Stakedrop",
+        "description": "A method for distributing tokens to participants who commit and \"lock up\" their existing tokens for a specified period. It serves as a means to bootstrap a network, incentivize early adopters, and secure initial funding for a project.",
+        "link": "https://www.mechanism.institute/library/stakedrop",
+        "tags": [
+            "Value Distribution",
+            "Fundraising"
+        ]
+    },
+    {
+        "title": "Staking Gauges",
+        "description": "Directing incentives towards different options based on token weighted staking",
+        "link": "https://www.mechanism.institute/library/staking-gauges",
+        "tags": [
+            "Value Distribution",
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Streaming Auction",
+        "description": "An auction mechanism that allows participants to bid on an item over a set period of time.",
+        "link": "https://www.mechanism.institute/library/streaming-auction",
+        "tags": [
+            "Fundraising",
+            "Value Distribution"
+        ]
+    },
+    {
+        "title": "Subscription Fee",
+        "description": "Users pay a recurring fee in exchange for access to a service or content.",
+        "link": "https://www.mechanism.institute/library/subscription-fee",
+        "tags": [
+            "Value Capture"
+        ]
+    },
+    {
+        "title": "Subsidized Voting",
+        "description": "A system in which the transaction cost of voting is automatically covered by the organization.",
+        "link": "https://www.mechanism.institute/library/subsidized-voting",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "Swapper",
+        "description": "Swaps all incoming tokens into a desired output token.",
+        "link": "https://www.mechanism.institute/library/swapper",
+        "tags": [
+            "Value Distribution",
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Time-Based Booster",
+        "description": "Staked tokens accumulate boosts over time which award them more rewards and/or governance rights. Boosts are reset whenever tokens are unstaked or transferred.",
+        "link": "https://www.mechanism.institute/library/time-based-booster",
+        "tags": [
+            "Value Distribution",
+            "Governance"
+        ]
+    },
+    {
+        "title": "Time-Bound Funding Round",
+        "description": "Participants submit proposals within a fixed time period for a fixed amount of capital, which is distributed among top winners based on the voting outcome.",
+        "link": "https://www.mechanism.institute/library/time-bound-funding-round",
+        "tags": [
+            "Value Distribution"
+        ]
+    },
+    {
+        "title": "Time-bound NFT",
+        "description": "An NFT that is only valid during a particular time period, and expires after that time.",
+        "link": "https://www.mechanism.institute/library/time-bound-nft",
+        "tags": [
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Time-Delay Execution",
+        "description": "A mechanism that imposes a delay on certain actions to prevent spam, fraud or attacks.",
+        "link": "https://www.mechanism.institute/library/time-delay-execution",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "Time-Weighted Average Market-Maker (TWAMM)",
+        "description": "Automated market maker (AMM) that uses time-based weightings to price assets.",
+        "link": "https://www.mechanism.institute/library/time-weighted-average-market-maker-twamm",
+        "tags": [
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Time-Weighted Average Price (TWAP)",
+        "description": "Pricing algorithm that calculates the average price of an asset over a set period of time.",
+        "link": "https://www.mechanism.institute/library/time-weighted-average-price-twap",
+        "tags": [
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Token Abstracted Voting",
+        "description": "Vote with tokens that are in liquidity pool tokens or being lent to a pool, or are on a different chain.",
+        "link": "https://www.mechanism.institute/library/token-abstracted-voting",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "Token Bonding Curve",
+        "description": "Issues tokens according to an algorithmic price curve as a function of circulating supply, where token price increases as tokens are purchased on the curve and decreases as tokens are sold back to the curve.",
+        "link": "https://www.mechanism.institute/library/token-bonding-curve",
+        "tags": [
+            "Fundraising",
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Token Curated Registry (TCR)",
+        "description": "A registry that is curated by token holders who are incentivized to maintain its integrity.",
+        "link": "https://www.mechanism.institute/library/token-curated-registry-tcr",
+        "tags": [
+            "Exchange",
+            "Value Capture"
+        ]
+    },
+    {
+        "title": "Token Gate",
+        "description": "Restricting access to certain services, features or content based on token holdings.",
+        "link": "https://www.mechanism.institute/library/token-gate",
+        "tags": [
+            "Exchange",
+            "Value Capture"
+        ]
+    },
+    {
+        "title": "Token Inflation",
+        "description": "Issuing new supply of a token to to incentivize a particular set of behaviors.",
+        "link": "https://www.mechanism.institute/library/token-inflation",
+        "tags": [
+            "Exchange",
+            "Fundraising"
+        ]
+    },
+    {
+        "title": "Token Stream",
+        "description": "Continuous transfer of tokens from a sender's account to a receiver's account.",
+        "link": "https://www.mechanism.institute/library/token-stream",
+        "tags": [
+            "Value Distribution"
+        ]
+    },
+    {
+        "title": "Token Timelock",
+        "description": "A mechanism that locks tokens for a set period of time to prevent them from being transferred or sold.",
+        "link": "https://www.mechanism.institute/library/token-timelock",
+        "tags": [
+            "Value Distribution"
+        ]
+    },
+    {
+        "title": "Token Vesting",
+        "description": "A mechanism that releases tokens over a predetermined period, often used to incentivize team members or early investors.",
+        "link": "https://www.mechanism.institute/library/token-vesting",
+        "tags": [
+            "Value Distribution"
+        ]
+    },
+    {
+        "title": "Token-Weighted Voting",
+        "description": "Assigning voting power based on the number of tokens held by each participant.",
+        "link": "https://www.mechanism.institute/library/token-weighted-voting",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "Tokenized Vault",
+        "description": "Receipt tokens represent a claim on an underlying pool of tokens that grows with fees being generated.",
+        "link": "https://www.mechanism.institute/library/tokenized-vault",
+        "tags": [
+            "Value Distribution"
+        ]
+    },
+    {
+        "title": "Transaction Fee",
+        "description": "A fee charged for transactions that occur within a particular marketplace or ecosystem, such as a purchase of NFTs.",
+        "link": "https://www.mechanism.institute/library/transaction-fee",
+        "tags": [
+            "Value Distribution",
+            "Value Capture"
+        ]
+    },
+    {
+        "title": "Transferable Token",
+        "description": "A token that can be freely traded or transferred between accounts.",
+        "link": "https://www.mechanism.institute/library/transferable-token",
+        "tags": [
+            "Exchange"
+        ]
+    },
+    {
+        "title": "Tribute",
+        "description": "A proposal to contribute funds, often in exchange for a native token. Funds are held in escrow until the proposal passes and are returned to the proposer if if fails.",
+        "link": "https://www.mechanism.institute/library/tribute-",
+        "tags": [
+            "Fundraising"
+        ]
+    },
+    {
+        "title": "Universal Basic Income (UBI)",
+        "description": "Provides all participants in a network with a basic income.",
+        "link": "https://www.mechanism.institute/library/universal-basic-income-ubi",
+        "tags": [
+            "Value Distribution"
+        ]
+    },
+    {
+        "title": "Variable Rate Gradual Dutch Auction (VRGDA)",
+        "description": "Novel token issuance mechanism designed for Art Gobblers and used in 0xMonaco that allows for the sale of tokens close to a custom schedule over time by raising prices when sales are ahead of schedule and lowering prices when sales are behind schedule.",
+        "link": "https://www.mechanism.institute/library/variable-rate-gradual-dutch-auction-vrgda",
+        "tags": [
+            "Fundraising",
+            "Exchange"
+        ]
+    },
+    {
+        "title": "ve(3,3)",
+        "description": "Variation of the veToken model that provides dilution protection and flexibility to token lockers.",
+        "link": "https://www.mechanism.institute/library/ve33",
+        "tags": [
+            "Governance",
+            "Value Capture"
+        ]
+    },
+    {
+        "title": "Verifiable Credential (VC)",
+        "description": "A digital credential that can be used to verify the identity or qualifications of an individual or organization.",
+        "link": "https://www.mechanism.institute/library/verifiable-credential-vc",
+        "tags": [
+            "Data"
+        ]
+    },
+    {
+        "title": "Veto",
+        "description": "The ability of certain participants to reject a proposed action.",
+        "link": "https://www.mechanism.institute/library/veto",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "veToken",
+        "description": "\"Vote Escrowed\" tokens are non-transferable tokens generated by locking up the original token. The longer tokens are locked, the more veToken are generated. veTokens usually represent a share of voting power and profits of a system.",
+        "link": "https://www.mechanism.institute/library/vetoken",
+        "tags": [
+            "Value Capture",
+            "Governance"
+        ]
+    },
+    {
+        "title": "Vickrey Auction",
+        "description": "Bidders submit written bids without knowing the bid of the other people in the auction. The highest bidder wins but the price paid is the second-highest bid.",
+        "link": "https://www.mechanism.institute/library/vickrey-auction",
+        "tags": [
+            "Fundraising"
+        ]
+    },
+    {
+        "title": "Vote Decay",
+        "description": "Stake weighting that decays according to certain factors, such as automatically over time or from not participating in governance.",
+        "link": "https://www.mechanism.institute/library/vote-decay",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "Vote Delegation",
+        "description": "Any address can delegate its voting rights to any other address, allowing them to vote on their behalf.",
+        "link": "https://www.mechanism.institute/library/vote-delegation",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "Wait for Quiet Voting",
+        "description": "Wait until voting has quited down before closing a vote.",
+        "link": "https://www.mechanism.institute/library/wait-for-quiet-voting",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "Web of Trust (WoT)",
+        "description": "Mechanism for establishing and managing trust relationships among entities in a peer-to-peer network based on the endorsements and validations of others within the network.",
+        "link": "https://www.mechanism.institute/library/web-of-trust-wot",
+        "tags": [
+            "Data"
+        ]
+    },
+    {
+        "title": "Weighted Voting",
+        "description": "A type of voting where voters can distribute voting points among different options, allowing them to indicate their level of preference.",
+        "link": "https://www.mechanism.institute/library/weighted-voting",
+        "tags": [
+            "Governance"
+        ]
+    },
+    {
+        "title": "Work Token",
+        "description": "Service providers stake the network's native token to gain the opportunity to work for the network. The more tokens a provider stakes, the higher their chances of getting the next job, relative to the total tokens staked by all providers.",
+        "link": "https://www.mechanism.institute/library/work-token",
+        "tags": [
+            "Exchange",
+            "Value Capture"
+        ]
+    },
+    {
+        "title": "xToken",
+        "description": "Receipt token that earns yield based on profit-share from fees.",
+        "link": "https://www.mechanism.institute/library/xtoken",
+        "tags": [
+            "Value Distribution"
+        ]
+    },
+    {
+        "title": "Yield Delegation",
+        "description": "Pooling tokens in order to donate the yield to a third-party.",
+        "link": "https://www.mechanism.institute/library/yield-delegation",
+        "tags": [
+            "Value Distribution"
+        ]
+    }
+]
